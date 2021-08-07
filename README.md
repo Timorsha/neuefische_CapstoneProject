@@ -1,1 +1,4 @@
 # neuefische_capstoneproject
+
+This repo covers the findings of the capstone project from the neuefische bootcamp from hamburg. 
+Improve future sales for bakery goods by predictive modeling. Optimize business processes and purchase planning by predictive modeling for a bakery store. The aim of the project was to predict the sales of three seasonal bakery goods as precisely as possible and thus avoid premature sell-outs and unnecessary waste of food and returns. Therefore an EDA and the PROPHET forecasting model are deployed. 
